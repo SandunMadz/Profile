@@ -32,6 +32,10 @@
     border-style: solid;
 
 }
+.proImge {
+    width: 170px;
+    height: 170px;
+}
 .navbars{
     overflow: hidden;
     background-color: #333;
@@ -88,7 +92,7 @@ body{
     top: 376px;
     left: 28%;
     height: 400px;
-    width: 637px;
+    width: 40rem;
 }
 
 
@@ -148,6 +152,6 @@ body{
     top: 800px;
     left: 380px;
     width: 637px;
-    height: 300px;
+    height: 400px;
     position: absolute;
 }

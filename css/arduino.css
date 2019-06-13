@@ -1,0 +1,31 @@
+.arImage{
+    position: absolute;
+    margin-top: 10px;
+    top: 376px;
+    left: 28%;
+
+    width: 40rem;
+}
+.arImage2{
+    position: absolute;
+    margin-top: 10px;
+    top: 790px;
+    left: 28%;
+
+    width: 40rem;
+}
+.arImage3{
+    position: absolute;
+    margin-top: 10px;
+    top: 1310px;
+    left: 28%;
+    height: 400px;
+    width: 40rem;
+}
+.arvideo{
+    top: 1850px;
+    left: 380px;
+    width: 637px;
+    height: 300px;
+    position: absolute;
+}
